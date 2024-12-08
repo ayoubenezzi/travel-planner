@@ -1,0 +1,1 @@
+Created a header in the App.jsx component identifying the project's name.
